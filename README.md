@@ -1,5 +1,5 @@
-# Sustainable banking: analysing spending behaviour and carbon emission patterns on community level through stochastic block models
-Repository with supporting code for the article Sustainable banking: analysing spending behaviour and carbon emission patterns on community level through stochastic block models.
+# Analysing community-level spending behaviour contributing to high carbon emissions using stochastic block models
+Repository with supporting code for the article Analysing community-level spending behaviour contributing to high carbon emissions using stochastic block models
 
 - SBM_for_Transaction_Networks.ipynb -- contains the network creation, community detection, and analyses we perform in our study
   
